@@ -12,7 +12,7 @@ redirect_from:
 <br />
 Greetings, I am <b>Dewinda</b>, and I am delighted to have you on my webpage!
 
-I am a Doctoral candidate in Computer Science, specializing in medical imaging, and my research is centered around the application of Deep Learning for brain disease diagnosis.
+I am a Doctoral candidate in Computer Science. My research is centered around the application of Deep Learning for medical imaging.
 
 Here, you can find a combination of personal and professional details about me.
 <br />
