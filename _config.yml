@@ -1,3 +1,42 @@
+
+Skip to content
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+@djrumala
+djrumala /
+djrumala.github.io
+Public
+forked from academicpages/academicpages.github.io
+
+Cannot fork because you own this repository and are not a member of any organizations.
+
+Code
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+
+    Settings
+
+djrumala.github.io/_config.yml
+@djrumala
+djrumala update error
+Latest commit 0ff9108 Mar 26, 2023
+History
+7 contributors
+@staeiou
+@djrumala
+@tlcaputi
+@a-paxton
+@ning-y
+@luismmontilla
+@jacobtfisher
+319 lines (288 sloc) 7.88 KB
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -7,18 +46,18 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Dewinda JR"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Dewinda Julianensi Rumala"
+description              : &description ""
+url                      : https://ameliajimenez.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "djrumala/djrumala.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -56,7 +95,7 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
+twitter: 
   username               : &twitter
 facebook:
   username               :
@@ -80,15 +119,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Dewinda Julianensi Rumala"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "PhD Candidate in Computer Science"
+  location         : "Surabaya, Indonesia / Suwon, South Korea"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=sjCrkSgAAAAJ"
+  email            : dewinda.207022@mhs.its.ac.id
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,25 +135,27 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : djrumala
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : 
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
+  strava           : #
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  mastodon         :
 
 
 # Reading Files
@@ -175,7 +216,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  outreach:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -209,6 +250,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+
   # _teaching
   - scope:
       path: ""
@@ -218,15 +260,18 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      
   # _publications
   - scope:
       path: ""
       type: publications
+      classes: wide
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
+
   # _portfolio
   - scope:
       path: ""
@@ -236,6 +281,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  
   # _talks
   - scope:
       path: ""
@@ -244,6 +290,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+
 
 # Sass/SCSS
 sass:
@@ -309,3 +356,20 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+
+    Terms
+    Privacy
+    Security
+    Status
+    Docs
+    Contact GitHub
+    Pricing
+    API
+    Training
+    Blog
+    About
+
+djrumala.github.io/_config.yml at master · djrumala/djrumala.github.io
