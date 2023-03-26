@@ -1,42 +1,3 @@
-
-Skip to content
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
-@djrumala
-djrumala /
-djrumala.github.io
-Public
-forked from academicpages/academicpages.github.io
-
-Cannot fork because you own this repository and are not a member of any organizations.
-
-Code
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-
-    Settings
-
-djrumala.github.io/_config.yml
-@djrumala
-djrumala update error
-Latest commit 0ff9108 Mar 26, 2023
-History
-7 contributors
-@staeiou
-@djrumala
-@tlcaputi
-@a-paxton
-@ning-y
-@luismmontilla
-@jacobtfisher
-319 lines (288 sloc) 7.88 KB
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -50,7 +11,7 @@ title                    : "Dewinda JR"
 title_separator          : "-"
 name                     : &name "Dewinda Julianensi Rumala"
 description              : &description ""
-url                      : https://ameliajimenez.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://djrumala.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "djrumala/djrumala.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -156,7 +117,6 @@ author:
   youtube          :
   wikipedia        :
   mastodon         :
-
 
 # Reading Files
 include:
@@ -356,20 +316,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
-djrumala.github.io/_config.yml at master · djrumala/djrumala.github.io
