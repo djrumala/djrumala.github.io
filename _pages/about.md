@@ -28,16 +28,14 @@ table, tr, td {
        <col span="1" style="width: 12%;">
        <col span="1" style="width: 88%;">
 </colgroup>
-<tr><td> April. 2023: </td> <td> Our work "Deep-Stacked Convolutional Neural Networks for Brain Abnormalities Classification Based on MRI Images" has been accepted for journal publication at Journal of Digital Imaging (Springer). Congratulations!
 </td></tr> 
-<tr><td> March. 2023: </td> <td> Our work on the development of Deep Learning techniques based on heterogeneous stack ensemble has undergone revisions and is currently under review for acceptance by the Journal of Digital Imaging (Springer)
+<tr><td> April. 2023: </td> <td> Our work "Deep-Stacked Convolutional Neural Networks for Brain Abnormalities Classification Based on MRI Images" has been accepted for publication at Journal of Digital Imaging (Springer). Congratulations!
 </td></tr> 
 <tr><td> Nov. 2022: </td> <td> I have started a research visit in the <a href="https://bioimage.khu.ac.kr/">Bio-Imaging Laboratory</a> at Kyung Hee University, South Korea (supervised by Prof. Tae-Seong Kim).
 </td></tr> 
 <tr><td> Sep. 2022: </td> <td> I have received a grant from the Ministry of Education, Culture, Research, and Technology Indonesia in the program of Enhancing International Publication/PKPI as part of my PMDSU scholarship to conduct a research abroad (Award number: 3940/E4/DT.04.02/2022)
 </td></tr> 
-<tr><td> Aug. 2022: </td> <td> Our work "The Effect of Noisy and Blurry Data on Deep Learning: Application in Brain Image Classification" has been accepted at the IEEE Region 10 Conference (TENCON) 2022
+<tr><td> Aug. 2022: </td> <td> Our work "The Effect of Noisy and Blurry Data on Deep Learning: Application in Brain Image Classification" has been accepted for publication at IEEE Region 10 Conference (TENCON) 2022
 </td></tr>
-<tr><td> May. 2022: </td> <td> Our work on the development of Deep Learning techniques based on heterogeneous stack ensemble has been submitted to the Journal of Digital Imaging (Springer)
 </td></tr> 
 </table>
