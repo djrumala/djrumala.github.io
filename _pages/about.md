@@ -33,7 +33,7 @@ table, tr, td {
 </td></tr> 
 <tr><td> April. 2023: </td> <td> Our work "Deep-Stacked Convolutional Neural Networks for Brain Abnormalities Classification Based on MRI Images" has been accepted for publication at Journal of Digital Imaging (Springer). Congratulations!
 </td></tr> 
-<tr><td> Nov. 2022: </td> <td> I have started a research visit in the <a href="https://bioimage.khu.ac.kr/" target="_blank">Bio-Imaging Laboratory</a> at Kyung Hee University, South Korea (supervised by Prof. Tae-Seong Kim).
+<tr><td> Nov. 2022: </td> <td> I have started a research visit in the <a href="http://bioimage.khu.ac.kr/" target="_blank">Bio-Imaging Laboratory</a> at Kyung Hee University, South Korea (supervised by Prof. Tae-Seong Kim).
 </td></tr> 
 <tr><td> Sep. 2022: </td> <td> I have received a grant from the Ministry of Education, Culture, Research, and Technology Indonesia in the program of Enhancing International Publication/PKPI as part of my PMDSU scholarship to conduct a research abroad (Award number: 3940/E4/DT.04.02/2022)
 </td></tr> 
