@@ -35,7 +35,7 @@ table, tr, td {
 </td></tr> 
 <tr><td> Nov. 2022: </td> <td> I have started a research visit in the <a href="http://bioimage.khu.ac.kr/" target="_blank">Bio-Imaging Laboratory</a> at Kyung Hee University, South Korea (supervised by Prof. Tae-Seong Kim).
 </td></tr> 
-<tr><td> Sep. 2022: </td> <td> I have received a grant from the Ministry of Education, Culture, Research, and Technology Indonesia in the program of Enhancing International Publication/PKPI as part of my PMDSU scholarship to conduct a research abroad (Award number: 3940/E4/DT.04.02/2022)
+<tr><td> Sep. 2022: </td> <td> I have received a grant from the Ministry of Education, Culture, Research, and Technology Indonesia in the program of Enhancing International Publication/PKPI as part of my PMDSU scholarship to conduct a research abroad
 </td></tr> 
 <tr><td> Aug. 2022: </td> <td> Our work "The Effect of Noisy and Blurry Data on Deep Learning: Application in Brain Image Classification" has been accepted for publication at <a href="https://ieeexplore.ieee.org/abstract/document/9977591" target="_blank">IEEE Region 10 Conference (TENCON) 2022</a>
 </td></tr>
