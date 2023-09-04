@@ -29,7 +29,7 @@ table, tr, td {
        <col span="1" style="width: 88%;">
 </colgroup>
   
-<tr><td> Aug. 2022: </td> <td> My work "<a href="https://bioimage.khu.ac.kr/](https://arxiv.org/abs/2309.00350">How You Split Matters</a>: Data Leakage and Subject Characteristics Studies in Longitudinal Brain MRI Analysis" has been accepted for publication at MICCAI FAIMI 2023 workshop. Congratulations!
+<tr><td> Aug. 2022: </td> <td> My work "<a href="https://arxiv.org/abs/2309.00350">How You Split Matters</a>: Data Leakage and Subject Characteristics Studies in Longitudinal Brain MRI Analysis" has been accepted for publication at MICCAI FAIMI 2023 workshop. Congratulations!
 </td></tr> 
 <tr><td> April. 2023: </td> <td> Our work "Deep-Stacked Convolutional Neural Networks for Brain Abnormalities Classification Based on MRI Images" has been accepted for publication at Journal of Digital Imaging (Springer). Congratulations!
 </td></tr> 
