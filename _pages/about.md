@@ -31,13 +31,13 @@ table, tr, td {
   
 <tr><td> Aug. 2022: </td> <td> My work "<a href="https://arxiv.org/abs/2309.00350" target="_blank">How You Split Matters</a>: Data Leakage and Subject Characteristics Studies in Longitudinal Brain MRI Analysis" has been accepted for publication at MICCAI FAIMI 2023 workshop. Congratulations!
 </td></tr> 
-<tr><td> April. 2023: </td> <td> Our work "Deep-Stacked Convolutional Neural Networks for Brain Abnormalities Classification Based on MRI Images" has been accepted for publication at Journal of Digital Imaging (Springer). Congratulations!
+<tr><td> April. 2023: </td> <td> Our work "Deep-Stacked Convolutional Neural Networks for Brain Abnormalities Classification Based on MRI Images" has been accepted for publication at <a href="https://link.springer.com/article/10.1007/s10278-023-00828-7" target="_blank">Journal of Digital Imaging</a> (Springer). Congratulations!
 </td></tr> 
 <tr><td> Nov. 2022: </td> <td> I have started a research visit in the <a href="http://bioimage.khu.ac.kr/" target="_blank">Bio-Imaging Laboratory</a> at Kyung Hee University, South Korea (supervised by Prof. Tae-Seong Kim).
 </td></tr> 
 <tr><td> Sep. 2022: </td> <td> I have received a grant from the Ministry of Education, Culture, Research, and Technology Indonesia in the program of Enhancing International Publication/PKPI as part of my PMDSU scholarship to conduct a research abroad (Award number: 3940/E4/DT.04.02/2022)
 </td></tr> 
-<tr><td> Aug. 2022: </td> <td> Our work "The Effect of Noisy and Blurry Data on Deep Learning: Application in Brain Image Classification" has been accepted for publication at IEEE Region 10 Conference (TENCON) 2022
+<tr><td> Aug. 2022: </td> <td> Our work "The Effect of Noisy and Blurry Data on Deep Learning: Application in Brain Image Classification" has been accepted for publication at <a href="https://ieeexplore.ieee.org/abstract/document/9977591" target="_blank">IEEE Region 10 Conference (TENCON) 2022</a>
 </td></tr>
 
 </table>
