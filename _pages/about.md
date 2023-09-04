@@ -28,7 +28,8 @@ table, tr, td {
        <col span="1" style="width: 12%;">
        <col span="1" style="width: 88%;">
 </colgroup>
-</td>My work "How You Split Matters: Data Leakage and Subject Characteristics Studies in Longitudinal Brain MRI Analysis has been accepted for publication at MICCAI FAIMI 2023 workshop. Congratulations!</tr> 
+<tr><td> Aug. 2022: </td> <td> My work "<a href="https://bioimage.khu.ac.kr/](https://arxiv.org/abs/2309.00350">How You Split Matters</a>: Data Leakage and Subject Characteristics Studies in Longitudinal Brain MRI Analysis" has been accepted for publication at MICCAI FAIMI 2023 workshop. Congratulations!
+</td></tr> 
 <tr><td> April. 2023: </td> <td> Our work "Deep-Stacked Convolutional Neural Networks for Brain Abnormalities Classification Based on MRI Images" has been accepted for publication at Journal of Digital Imaging (Springer). Congratulations!
 </td></tr> 
 <tr><td> Nov. 2022: </td> <td> I have started a research visit in the <a href="https://bioimage.khu.ac.kr/">Bio-Imaging Laboratory</a> at Kyung Hee University, South Korea (supervised by Prof. Tae-Seong Kim).
