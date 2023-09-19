@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /about-me/cv/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,13 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Engineering, Sepuluh Nopember Insitute of Technology, September 2015 - September2019
+* M.S. in Electrical Engineering (Computer Science), Sepuluh Nopember Insitute of Technology, September 2019 - September 2020
+* Ph.D in Electrical Engineering (Computer Science), Sepuluh Nopember Insitute of Technologyy, September 2020 - March 2024 (expected)
 
-Work experience
+<!-- Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -26,23 +27,15 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+   -->
 
-Publications
+Selected Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -50,10 +43,13 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.project %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
+
+
+<p>You can also find more about my education and experiences on <a href="https://www.linkedin.com/in/dewinda-julianensi-rumala-865810271/" target="_blank">my Linkedin profile</a>.</p>

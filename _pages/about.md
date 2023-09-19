@@ -1,7 +1,7 @@
 ---
 permalink: /
 #layout: archive
-title: ""
+title: "Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

@@ -54,10 +54,21 @@ To gain insights into the patterns learned by these models, we used GradCAM visu
 
 <table>
   <tr>
-    <td style="text-align: center;" >Data Group</td>
-    <td style="text-align: center;">Subject-wise Split</td>
-    <td style="text-align: center;">Record-wise Split</td>
-    <td style="text-align: center;">Late Split</td>
+    <td style="text-align: center;" > <b>Data Group</b></td>
+    <td style="text-align: center;"><b>Subject-wise Split</b></td>
+    <td style="text-align: center;"><b>Record-wise Split</b></td>
+    <td style="text-align: center;"><b>Late Split</b></td>
+  </tr>
+  <tr> 
+    <td rowspan="2" style="text-align: center;">CN</td>
+    <td style="text-align: center;"><img src="/images/2023-its-miccai_faimi/GradCAM-auto_T1_DenseNet121_test-20_Ax.gif" width="200" height="200"> <br> [O] Correctly classified</td>
+    <td style="text-align: center;"><img src="/images/2023-its-miccai_faimi/GradCAM-record_T1_DenseNet121_test-20_Ax.gif" width="200" height="200"> <br> [O] Correctly classified</td>
+    <td style="text-align: center;"><img src="/images/2023-its-miccai_faimi/GradCAM-late_T1_DenseNet121_test-20_Ax.gif" width="200" height="200"> <br> [O] Correctly classified</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><img src="/images/2023-its-miccai_faimi/GradCAM-auto_T1_DenseNet121_test-15_Ax.gif" width="200" height="200"> <br> [X] Misclassified</td>
+    <td style="text-align: center;"><img src="/images/2023-its-miccai_faimi/GradCAM-record_T1_DenseNet121_test-15_Ax.gif" width="200" height="200"> <br> [X] Misclassified</td>
+    <td style="text-align: center;"><img src="/images/2023-its-miccai_faimi/GradCAM-late_T1_DenseNet121_test-15_Ax.gif" width="200" height="200"> <br> [X] Misclassified</td>
   </tr>
   <tr> 
     <td rowspan="2" style="text-align: center;">AD</td>

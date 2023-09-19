@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : dark # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Dewinda Julianensi Rumala"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "PhD Candidate in Computer Science"
   location         : "Surabaya, Indonesia"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=sjCrkSgAAAAJ"
   email            : dewinda.207022@mhs.its.ac.id
-  researchgate     : 
+  researchgate     : "https://www.researchgate.net/profile/Dewinda-Rumala-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : 
-  orcid            : 
+  linkedin         : "https://www.linkedin.com/in/dewinda-julianensi-rumala-865810271/"
+  orcid            : "https://orcid.org/0000-0002-1458-2238"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
