@@ -22,9 +22,9 @@ Below is a summary of the research projects on which I have been working on:
 
 ### Students (Supervising)
 
-<li> Fajar Azka (ITS) - Stroke Lession Segmentation (Master Thesis) </li>
-<li> Arnold Sidiprasetija  (ITS) - Transfer Learning Application for 3D Medical Imaging (Bachelor Thesis) </li>  
-<li> I Made N. Pinton (ITS) - 3D Brain MR Image classification for Alzheimer's Disease (Bachelor Thesis) </li>
-<li> Alif Aditya (ITS) - Multiclass Segmentation on 3D MRI data for Brain Tumor (Bachelor Thesis) </li>
-<li> Yordan Yasin- Open Set Recognition in Skin Classification (Bachelor Thesis) </li>
+* Fajar Azka (ITS) - Stroke Lession Segmentation (Master Thesis)
+* Arnold Sidiprasetija  (ITS) - Transfer Learning Application for 3D Medical Imaging (Bachelor Thesis)
+* I Made N. Pinton (ITS) - 3D Brain MR Image classification for Alzheimer's Disease (Bachelor Thesis)
+* Alif Aditya (ITS) - Multiclass Segmentation on 3D MRI data for Brain Tumor (Bachelor Thesis)
+* Yordan Yasin- Open Set Recognition in Skin Classification (Bachelor Thesis)
 
