@@ -13,15 +13,16 @@ Dewinda Julianensi Rumala
 <!-- Link to the publication/paper1 page -->
 <br>
 
+<i>MICCAI FAIMI 2023</i>
 
-# Research Summary
-In medical image analysis, we often encounter longitudinal data, where subjects have multiple scans over different time of visits. However, this aspect is often overlooked, leading to biases in AI models, such as over-optimistic results due to data leakage from improper procedures.
+<!-- # Research Summary -->
+<!-- In medical image analysis, we often encounter longitudinal data, where subjects have multiple scans over different time of visits. However, this aspect is often overlooked, leading to biases in AI models, such as over-optimistic results due to data leakage from improper procedures.
 
 This study focuses on assessing how the data splitting strategy during cross-validation (CV) affects data leakage when applying deep learning models to longitudinal data. Specifically, this research used 3D CNNs for Alzheimer's Disease (AD) classification with longitudinal brain MRI data.
 
 The findings revealed that certain data splitting strategies caused data leakage, resulting in identity confounding. This means that models learned to identify subject or identity information along with diagnostic features. While these models performed well during CV, they could not generalize effectively to new subjects in the hold-out data.
 
-To gain insights into the patterns learned by these models, GradCAM visualization is utilized on the hold-out data, revealing the presence of shortcuts, possibly due to identity confounding.
+To gain insights into the patterns learned by these models, GradCAM visualization is utilized on the hold-out data, revealing the presence of shortcuts, possibly due to identity confounding. -->
 
 ## Introduction
 <!-- * Longitudinal data is often not considered
@@ -119,15 +120,15 @@ Data Splitting Strategies during CV:
 
 
 ## Conclusions
-* <b>How You Split Matters</b>: 
+* <b>How You Split Matters</b>
   * The choice of data splitting strategy during cross-validation significantly influences the performance and robustness of deep learning models in longitudinal medical image analysis.
-* <b>Data Leakage and Identity Confounding</b>: 
+* <b>Data Leakage and Identity Confounding</b>
   * Improper data splitting can lead to data leakage, causing identity confounding within the models. This compromises their generalization and can result in misleadingly optimistic performance assessments.
-* <b>Shortcut Learning Revealed by GradCAM</b>: 
+* <b>Shortcut Learning Revealed by GradCAM</b>
   * Visualization using GradCAM highlights potential shortcut learning in models, particularly from record-wise and late-wise splitting strategies. This suggests that models may learn unintended patterns during cross-validation.
-* <b>Subject-Wise Split</b>: 
-  * A Promising Approach: Subject-wise splitting demonstrates relative robustness and less vulnerability to data leakage compared to record-wise and late-wise strategies. However, challenges like underperformance indicate the need for further investigation, potentially with a larger and more diverse dataset.
-* <b>Future Directions</b>: 
+* <b>Validating Robustness with Subject-Wise Split</b>
+  * This study validates previous findings suggesting a promising approach---subject-wise split demonstrates relative robustness and less vulnerability to data leakage compared to record-wise and late splitting strategies. However, challenges like underperformance indicate the need for further investigation, potentially with a larger and more diverse dataset.
+* <b>Future Directions</b>
   * Addressing the observed limitations, future research should focus on refining data splitting strategies and exploring methods to improve model generalization. Incorporating a diverse dataset and balancing sensitive attributes could enhance model fairness and accuracy.
 
 ## References
@@ -136,4 +137,4 @@ Data Splitting Strategies during CV:
 
 
 ## Acknowledgement
-Special thanks to DGHERT Ministry of Education and Research Technology, Indonesia, Prof. I Ketut Eddy Purnama (Sepuluh Nopember Institut of Technology, Indonesia) and Prof. Tae-Seong Kim (Kyung Hee University, South Korea).
+Special thanks to DGHERT Ministry of Education and Research Technology, Indonesia, Prof. I Ketut Eddy Purnama (Sepuluh Nopember Institute of Technology, Indonesia) and Prof. Tae-Seong Kim (Kyung Hee University, South Korea).
