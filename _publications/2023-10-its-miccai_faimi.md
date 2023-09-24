@@ -29,14 +29,19 @@ To gain insights into the patterns learned by these models, GradCAM visualizatio
 * Little attention is given to data handling procedure when tackling longitudinal data
 * Deep learning model performance tends to be  -->
 
-* <b>Neglect of Longitudinal Data</b>: In medical image analysis, the significance of longitudinal data is often overlooked. Longitudinal data, with its repeated observations over time, holds a wealth of information critical for understanding changes and patterns over the progression of diseases.
+* <b>Neglect of Longitudinal Data</b>: In medical image analysis, the significance of longitudinal data is often overlooked. Longitudinal data, with its repeated observations over time, holds a wealth of information critical for understanding changes and patterns over the progression of diseases, offering insights into treatment efficacy.
 
-* <b>Data Handling in Longitudinal Analysis</b>: Proper handling of longitudinal data is a crucial aspect that often receives inadequate attention. Inconsistent or improper data handling procedures can introduce biases and compromise the robustness and reliability of the results.
+* <b>Data Handling in Longitudinal Analysis</b>: Proper handling of longitudinal data is a crucial aspect that often receives inadequate attention. Inconsistent or improper data handling procedures can introduce biases and compromise the robustness and reliability of the results, even in 3D-based medical image analysis.
 
 * <b>Deep Learning Performance Challenges</b>: Deep learning models, despite their high performance, can be misleading in the medical imaging domain. Biases, such as data leakage, can give overly optimistic results during evaluation, potentially leading to incorrect conclusions. Understanding and mitigating these challenges are vital for trustworthy AI-powered medical diagnoses.
 
 ## Methods
- 
+
+* Deep Learning model: 3D CNN [(DenseNet121)](https://github.com/ZFTurbo/classification_models_3D)
+* Datasets: 3D Longitudinal T1-weighted and T2-weighted MRI from [ADNI](https://adni.loni.usc.edu/)
+* Data Processing: [CAT12](https://andysbrainbook.readthedocs.io/en/latest/CAT12/CAT12_Overview.html) with VBM pipeline 
+* Purpose: Three-way classification (CN, MCI, and AD)
+
 ### Evaluation Scheme
 Data Splitting Strategies during CV:
 - Subject-wise Splitting
@@ -62,7 +67,7 @@ Data Splitting Strategies during CV:
   * Both sequences (T1 and T2) prove suitable for the three-way classification task of CN, MCI, and AD.
 
 * Insights from GradCAM Visualization:
-    * Certain data splitting strategies may lead to shortcut learning, potentially due to identity confounding.
+    * Presence of shortcut learning found frem certain data splitting strategies: record-wise and late splits.
 
 
 ### GradCAM Visualization
@@ -119,7 +124,7 @@ Data Splitting Strategies during CV:
     Subject-wise splitting strategy shows more robustness but still suffers from performance drops, possibly due to underfitting, which can be mitigated with a larger and more diverse dataset.
 
 
-## Conclusions
+## Discussion
 * <b>How You Split Matters</b>
   * The choice of data splitting strategy during cross-validation significantly influences the performance and robustness of deep learning models in longitudinal medical image analysis.
 * <b>Data Leakage and Identity Confounding</b>
@@ -129,7 +134,8 @@ Data Splitting Strategies during CV:
 * <b>Validating Robustness with Subject-Wise Split</b>
   * This study validates previous findings suggesting a promising approach---subject-wise split demonstrates relative robustness and less vulnerability to data leakage compared to record-wise and late splitting strategies. However, challenges like underperformance indicate the need for further investigation, potentially with a larger and more diverse dataset.
 * <b>Future Directions</b>
-  * Addressing the observed limitations, future research should focus on refining data splitting strategies and exploring methods to improve model generalization. Incorporating a diverse dataset and balancing sensitive attributes could enhance model fairness and accuracy.
+  * Promoting Subject-wise split: future research should strongly consider subject-wise split for more reliable model evaluation and development.
+  * Investigating data variance and sensitive attributes: Further research should delve into the correlation between data splitting strategies and data variance, particularly exploring the influence of sensitive attributes such as age and sex. Understanding these relationships can lead to more nuanced and fair models.
 
 ## References
 1. Chaibub Neto, E., Pratap, A., Perumal, T.M., Tummalacherla, M., Snyder, P., Bot, B.M., Trister, A.D., Friend, S.H., Mangravite, L., Omberg, L.: Detecting the impact of subject characteristics on machine learning-based diagnostic applications. npj Digital Medicine 2(1), 99 (Oct 2019). [https://doi.org/10.1038/s41746-019-0178-x](https://doi.org/10.1038/s41746-019-0178-x){:target="_blank"}
