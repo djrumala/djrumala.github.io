@@ -13,7 +13,9 @@ Dewinda Julianensi Rumala
 <!-- Link to the publication/paper1 page -->
 <br>
 
-<i>MICCAI FAIMI 2023</i>
+<i>MICCAI FAIMI 2023</i> 
+
+<a href="/files/2023-its-miccai_faimi/small-poster.pdf" target="_blank" class="btn">Download Workshop Poster Here</a>
 
 <!-- # Research Summary -->
 <!-- In medical image analysis, we often encounter longitudinal data, where subjects have multiple scans over different time of visits. However, this aspect is often overlooked, leading to biases in AI models, such as over-optimistic results due to data leakage from improper procedures.
