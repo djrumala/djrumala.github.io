@@ -24,7 +24,7 @@ The findings revealed that certain data splitting strategies caused data leakage
 
 To gain insights into the patterns learned by these models, GradCAM visualization is utilized on the hold-out data, revealing the presence of shortcuts, possibly due to identity confounding. -->
 
-## Introduction
+# Introduction
 <!-- * Longitudinal data is often not considered
 * Little attention is given to data handling procedure when tackling longitudinal data
 * Deep learning model performance tends to be  -->
@@ -35,14 +35,83 @@ To gain insights into the patterns learned by these models, GradCAM visualizatio
 
 * <b>Deep Learning Performance Challenges</b>: Deep learning models, despite their high performance, can be misleading in the medical imaging domain. Biases, such as data leakage, can give overly optimistic results during evaluation, potentially leading to incorrect conclusions. Understanding and mitigating these challenges are vital for trustworthy AI-powered medical diagnoses.
 
-## Methods
+# Methods
 
 * Deep Learning model: 3D CNN [(DenseNet121)](https://github.com/ZFTurbo/classification_models_3D)
-* Datasets: 3D Longitudinal T1-weighted and T2-weighted MRI from [ADNI](https://adni.loni.usc.edu/)
+* Datasets: 3D Longitudinal T1-weighted and T2-weighted MRI from [ADNI](https://adni.loni.usc.edu/) (Dataset statistics see Table S1)
 * Data Processing: [CAT12](https://andysbrainbook.readthedocs.io/en/latest/CAT12/CAT12_Overview.html) with VBM pipeline 
 * Purpose: Three-way classification (CN, MCI, and AD)
 
-### Evaluation Scheme
+<b>Table S1.</b> Dataset Statistics. The ratio of females to males and the average age are based on the number of images rather than the number of subjects.
+
+<table>
+<thead>
+  <tr>
+    <td rowspan="2" style="text-align: center;" > <b>Collection</b></td>
+    <td rowspan="2" style="text-align: center;"><b>Data Group</b></td>
+    <td rowspan="2" style="text-align: center;"><b>No of Subjects</b></td>
+    <td rowspan="2" style="text-align: center;"><b>Female / Male </b></td>
+    <td rowspan="2" style="text-align: center;"><b>Age </b></td>
+    <td colspan="2" style="text-align: center;"><b>No of Scans </b></td>
+  </tr>
+  <tr> 
+    <td style="text-align: center;"><b>Before Augmentation</b></td>
+    <td style="text-align: center;"><b>After Augmentation</b></td>
+  </tr>
+</thead>
+  <tr> 
+    <td rowspan="3" style="text-align: center;">5-Fold data</td>
+    <td style="text-align: center;">CN</td>
+    <td style="text-align: center;">41</td>
+    <td style="text-align: center;">85/65</td>
+    <td style="text-align: center;">76.68 ± 4.15</td>
+    <td style="text-align: center;">150</td>
+    <td style="text-align: center;">300</td>
+  </tr>
+  <tr> 
+    <td style="text-align: center;">MCI</td>
+    <td style="text-align: center;">45</td>
+    <td style="text-align: center;">50/100</td>
+    <td style="text-align: center;">74.19 ± 8.57</td>
+    <td style="text-align: center;">150</td>
+    <td style="text-align: center;">300</td>
+  </tr>
+  <tr> 
+    <td style="text-align: center;">AD</td>
+    <td style="text-align: center;">25</td>
+    <td style="text-align: center;">30/20</td>
+    <td style="text-align: center;">74.22 ± 8.90</td>
+    <td style="text-align: center;">50</td>
+    <td style="text-align: center;">300</td>
+  </tr>
+  <tr> 
+    <td rowspan="3" style="text-align: center;">Hold-out data</td>
+    <td style="text-align: center;">CN</td>
+    <td style="text-align: center;">8</td>
+    <td style="text-align: center;">17/13</td>
+    <td style="text-align: center;">74.81 ± 3.13</td>
+    <td style="text-align: center;">30</td>
+    <td style="text-align: center;">-</td>
+  </tr>
+  <tr> 
+    <td style="text-align: center;">MCI</td>
+    <td style="text-align: center;">11</td>
+    <td style="text-align: center;">8/22</td>
+    <td style="text-align: center;">75.42 ± 7.26</td>
+    <td style="text-align: center;">30</td>
+    <td style="text-align: center;">-</td>
+  </tr>
+  <tr> 
+    <td style="text-align: center;">AD</td>
+    <td style="text-align: center;">7</td>
+    <td style="text-align: center;">16/1</td>
+    <td style="text-align: center;">78.26 ± 6.52</td>
+    <td style="text-align: center;">30</td>
+    <td style="text-align: center;">-</td>
+  </tr>
+</table>
+
+## Evaluation Scheme
 Data Splitting Strategies during CV:
 - Subject-wise Splitting
 - Record-wise Splitting
@@ -55,7 +124,20 @@ Data Splitting Strategies during CV:
   <figcaption>A toy example of different data split strategies for longitudinal brain MRI. (a) Subject-wise splitting groups all image scans based on the subjects into k-folds. (b) Record-wise splitting groups image scans based on different visit times into k-folds. (c) Late splitting groups image scans based on transformation technique into k-folds.</figcaption>
 </figure>
 
-## Results and Analysis
+
+## Training Setups
+<b>Table S2.</b> Overview of the parameters used across all experiments: the learning rate was reduced using the ReduceLROnPlateau scheduler from TensorFlow by a factor of 0.1 when validation loss did not decrease after 10 epochs. Adam was used as the optimizer.
+
+| Parameter | Value | 
+|:--------|:-------:|
+| Learning rate   | 0.0001   |
+| Epsilon   | 0.0001   |
+| Beta 1   | 0.9 |
+| Beta 2   | 0.99   |
+| Epoch   | 100  |
+| Batch size   | 24  |
+
+# Results and Analysis
 
 * Data Splitting Strategy Impact:
   * Data splitting strategy significantly influences model performance (P=0.0389).
@@ -70,7 +152,7 @@ Data Splitting Strategies during CV:
     * Presence of shortcut learning found frem certain data splitting strategies: record-wise and late splits.
 
 
-### GradCAM Visualization
+## GradCAM Visualization
 
 <img src="/images/2023-its-miccai_faimi/gradcam.jpg"  style="max-height: 500px">
 
@@ -83,12 +165,14 @@ Data Splitting Strategies during CV:
 
 
 <table>
+<thead>
   <tr>
     <td style="text-align: center;" > <b>Data Group</b></td>
     <td style="text-align: center;"><b>Subject-wise Split</b></td>
     <td style="text-align: center;"><b>Record-wise Split</b></td>
     <td style="text-align: center;"><b>Late Split</b></td>
   </tr>
+</thead>
   <tr> 
     <td rowspan="2" style="text-align: center;">CN</td>
     <td style="text-align: center;"><img src="/images/2023-its-miccai_faimi/GradCAM-auto_T1_DenseNet121_test-20_Ax.gif" width="200" height="200"> <br> [O] Correctly classified</td>
@@ -115,16 +199,8 @@ Data Splitting Strategies during CV:
 <!-- Add more publications in a similar format -->
 
 
-## Limitations
-  * Generalization Challenges:
-    * Limited generalization to hold-out data likely influenced by data variance in sensitive attributes (e.g., age and gender imbalance).
 
-  * Robustness of Subject-Wise Split:
-    * Despite a significant drop in performance, subject-wise splitting demonstrates relative robustness. Addressing potential underfitting by incorporating a more diverse subject pool could enhance this approach's performance.
-    Subject-wise splitting strategy shows more robustness but still suffers from performance drops, possibly due to underfitting, which can be mitigated with a larger and more diverse dataset.
-
-
-## Discussion
+# Discussion
 * <b>How You Split Matters</b>
   * The choice of data splitting strategy during cross-validation significantly influences the performance and robustness of deep learning models in longitudinal medical image analysis.
 * <b>Data Leakage and Identity Confounding</b>
@@ -137,10 +213,18 @@ Data Splitting Strategies during CV:
   * Promoting Subject-wise split: future research should strongly consider subject-wise split for more reliable model evaluation and development.
   * Investigating data variance and sensitive attributes: Further research should delve into the correlation between data splitting strategies and data variance, particularly exploring the influence of sensitive attributes such as age and sex. Understanding these relationships can lead to more nuanced and fair models.
 
-## References
+## Limitations
+  * Generalization Challenges:
+    * Limited generalization to hold-out data likely influenced by data variance in sensitive attributes (e.g., age and gender imbalance).
+
+  * Robustness of Subject-Wise Split:
+    * Despite a significant drop in performance, subject-wise splitting demonstrates relative robustness. Addressing potential underfitting by incorporating a more diverse subject pool could enhance this approach's performance.
+    Subject-wise splitting strategy shows more robustness but still suffers from performance drops, possibly due to underfitting, which can be mitigated with a larger and more diverse dataset.
+
+# References
 1. Chaibub Neto, E., Pratap, A., Perumal, T.M., Tummalacherla, M., Snyder, P., Bot, B.M., Trister, A.D., Friend, S.H., Mangravite, L., Omberg, L.: Detecting the impact of subject characteristics on machine learning-based diagnostic applications. npj Digital Medicine 2(1), 99 (Oct 2019). [https://doi.org/10.1038/s41746-019-0178-x](https://doi.org/10.1038/s41746-019-0178-x){:target="_blank"}
 2. Yagis, E., Atnafu, S.W., García Seco de Herrera, A., Marzi, C., Scheda, R., Giannelli, M., Tessa, C., Citi, L., Diciotti, S.: Effect of data leakage in brain MRI classification using 2D convolutional neural networks. Scientific Reports 11(1), 22544 (Nov 2021). [https://doi.org/10.1038/s41598-021-01681-w](https://doi.org/10.1038/s41598-021-01681-w){:target="_blank"}
 
 
-## Acknowledgement
-Special thanks to DGHERT Ministry of Education and Research Technology, Indonesia, Prof. I Ketut Eddy Purnama (Sepuluh Nopember Institute of Technology, Indonesia) and Prof. Tae-Seong Kim (Kyung Hee University, South Korea).
+# Acknowledgement
+Special thanks to Directorate General of Higher Education and Research Technology, Indonesia, Prof. I Ketut Eddy Purnama (Sepuluh Nopember Institute of Technology, Indonesia) and Prof. Tae-Seong Kim (Kyung Hee University, South Korea).
