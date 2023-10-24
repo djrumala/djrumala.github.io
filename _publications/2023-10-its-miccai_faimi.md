@@ -6,16 +6,20 @@ author_profile: true
 date: 2023-09-01
 venue: 'MICCAI FAIMI'
 ---
-Dewinda Julianensi Rumala
-<br>
+Dewinda Julianensi Rumala<br>
+<a href="https://link.springer.com/chapter/10.1007/978-3-031-45249-9_23"  target="_blank"><i class="fa fa-cloud"> Publication Page</i></a>
 <a href="https://arxiv.org/abs/2309.00350"  target="_blank"><i class="fas fa-file-pdf"> PDF</i></a>
 <a href="https://github.com/djrumala/ADNI-processing"  target="_blank"><i class="fab fa-github"> Code</i></a>
-<!-- Link to the publication/paper1 page -->
 <br>
 
-<i>MICCAI FAIMI 2023</i> 
+<!-- Link to the publication/paper1 page -->
+[_MICCAI FAIMI 2023_](https://faimi-workshop.github.io/2023-miccai/){:target="_blank"}
 
-<a href="/files/2023-its-miccai_faimi/small-poster.pdf" target="_blank" class="btn">Download Workshop Poster Here</a>
+This work has been honored with the <b>Best Poster Presentation Award</b> at MICCAI FAIMI 2023 workshop.
+
+<a href="/files/2023-its-miccai_faimi/small-poster.pdf" target="_blank" class="btn"><i class="fa fa-scroll"> Download Poster</i></a>
+<a href="/files/2023-its-miccai_faimi/best_poster_award.pdf"  target="_blank" class="btn"><i class="fa fa-award"> View Award Certificate</i></a> 
+
 
 <!-- # Research Summary -->
 <!-- In medical image analysis, we often encounter longitudinal data, where subjects have multiple scans over different time of visits. However, this aspect is often overlooked, leading to biases in AI models, such as over-optimistic results due to data leakage from improper procedures.
