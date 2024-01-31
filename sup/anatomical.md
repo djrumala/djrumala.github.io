@@ -1,7 +1,7 @@
 ---
 layout: supplementary
 title: Lightweight Deep Learning Models for Robust Brain MRI Classification in Limited Data Scenarios
-permalink: /sup/anatomical/
+permalink: /supplementary/anatomical/
 ---
 
 ### Supplementary Materials
