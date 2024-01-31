@@ -17,6 +17,10 @@ main:
     
   - title: "Blog"
     url: /year-archive/
+
+    
+  # - title: "Supplementaries"
+  #   url: /supplementary/
     
   # - title: "Guide"
   #   url: /markdown/

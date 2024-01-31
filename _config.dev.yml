@@ -188,6 +188,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  supplementals:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -250,6 +253,17 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+
+  # _supplementals
+  - scope:
+      path: ""
+      type: supplementals
+      classes: wide
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      comments: true
 
 
 # Sass/SCSS
