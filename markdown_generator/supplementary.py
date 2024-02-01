@@ -34,7 +34,7 @@ import pandas as pd
 
 # In[3]:
 
-supplementary = pd.read_csv("publications.tsv", sep="\t", header=0)
+supplementary = pd.read_csv("supplementary.tsv", sep="\t", header=0)
 supplementary
 
 
