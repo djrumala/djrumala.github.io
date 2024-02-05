@@ -1,5 +1,6 @@
 ---
 title: "Bilinear MobileNets for Multi-class Brain Disease Classification Based on Magnetic Resonance Images"
+author_profile: false
 collection: publications
 # permalink: /publication/deep-stacked-cnn
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'

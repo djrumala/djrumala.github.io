@@ -2,7 +2,7 @@
 layout: archive
 title: "How You Split Matters: Data Leakage and Subject Characteristics Studies in Longitudinal Brain MRI Analysis"
 permalink: /publications/how-you-split-matters
-author_profile: true
+author_profile: false
 date: 2023-09-01
 venue: 'MICCAI FAIMI'
 ---
