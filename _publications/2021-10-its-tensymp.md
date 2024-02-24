@@ -2,7 +2,7 @@
 title: "Bilinear MobileNets for Multi-class Brain Disease Classification Based on Magnetic Resonance Images"
 author_profile: false
 collection: publications
-# permalink: /publication/deep-stacked-cnn
+permalink: /publications/bilinear-mobilenets
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2021-10-04
 venue: 'IEEE Region 10 Symposium (TENSYMP)'

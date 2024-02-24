@@ -14,7 +14,7 @@ Education
 ======
 * B.S. in Computer Engineering, Sepuluh Nopember Institute of Technology, September 2015 - September 2019
 * M.S. in Electrical Engineering (Computer Science), Sepuluh Nopember Insitute of Technology, September 2019 - September 2020
-* Ph.D in Electrical Engineering (Computer Science), Sepuluh Nopember Insitute of Technologyy, September 2020 - March 2024 (expected)
+* Ph.D in Electrical Engineering (Computer Science), Sepuluh Nopember Insitute of Technologyy, September 2020 - September 2024 (expected)
 
 <!-- Work experience
 ======
