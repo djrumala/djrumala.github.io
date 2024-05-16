@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Supplementary"
-permalink: /supplementals/
+permalink: /sup/
 author_profile: false
 ---
 
@@ -10,3 +10,4 @@ author_profile: false
 {% for post in site.supplementals reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
