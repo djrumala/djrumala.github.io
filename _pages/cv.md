@@ -12,65 +12,38 @@ redirect_from:
 
 Education
 ======
-<<<<<<< HEAD
 * B.S. in Computer Engineering, Sepuluh Nopember Institute of Technology, September 2015 - September 2019
 * M.S. in Electrical Engineering (Computer Science), Sepuluh Nopember Insitute of Technology, September 2019 - September 2020
 * Ph.D in Electrical Engineering (Computer Science), Sepuluh Nopember Insitute of Technologyy, September 2020 - September 2024 (expected)
-=======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
->>>>>>> 5dee723c4017b7d297a31daa3950d8eeb6570c61
 
 <!-- Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+* Summer 2015: Research Assistant
   * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
 
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-<<<<<<< HEAD
    -->
-=======
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
->>>>>>> 5dee723c4017b7d297a31daa3950d8eeb6570c61
 
 Selected Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+  <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 <!-- Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
 ======
-<<<<<<< HEAD
   <ul>{% for post in site.project %}
-=======
-  <ul>{% for post in site.teaching reversed %}
->>>>>>> 5dee723c4017b7d297a31daa3950d8eeb6570c61
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
