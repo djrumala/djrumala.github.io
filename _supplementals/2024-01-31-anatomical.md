@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: Lightweight Deep Learning Models for Robust Brain MRI Classification in Limited Data Scenarios
 collection: supplementals
 permalink: /sup/anatomical

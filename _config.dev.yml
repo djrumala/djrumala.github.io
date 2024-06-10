@@ -260,10 +260,10 @@ defaults:
       type: supplementals
       classes: wide
     values:
-      layout: single
+      layout: archive
       author_profile: false
-      share: true
-      comments: true
+      share: false
+      comments: false
 
 
 # Sass/SCSS
