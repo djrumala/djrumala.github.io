@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /about-me/cv/
 author_profile: true
 redirect_from:
@@ -10,31 +10,75 @@ redirect_from:
 {% include base_path %}
 
 
+
+Experience
+======
+* 2020.09 - present: <b>PhD AI Researcher</b>
+  * <b>Institut Teknologi Sepuluh Nopember, Indonesia</b>
+  * Supervisor: Prof. I Ketut Eddy Purnama
+  * Skills: Deep Learning, Machine Learning, Computer Vision, Image Processing, Biomedical Image, Python, Tensorflow, SPM
+
+* 2022.11 - 2023.03: <b>Visiting PhD Researcher</b>
+  * <b>Kyung Hee University, South Korea</b>
+  * Supervisor: Prof. Tae-Seong Kim
+  * Skills: Deep Learning, Machine Learning, Computer Vision, Image Processing, Biomedical Image, Python, Tensorflow, SPM
+
+* 20018.08 - 2019.01: <b>Software Engineer</b>
+  * <b>PT. ITS Tekno Sains, Indonesia</b>
+  * Skills: Software Engineering, SQL, Machine Learning
+
+* 2018.06 - 2018.07: <b>Engineering Intern</b>
+  * <b>PT. YTL Power (Paiton II Power Station), Indonesia</b>
+  * Skills: Software Engineering, Network System and Security, SQL
+
+
 Education
 ======
-* B.S. in Computer Engineering, Sepuluh Nopember Institute of Technology, September 2015 - September 2019
-* M.S. in Electrical Engineering (Computer Science), Sepuluh Nopember Insitute of Technology, September 2019 - September 2020
-* Ph.D in Electrical Engineering (Computer Science), Sepuluh Nopember Insitute of Technologyy, September 2020 - September 2024 (expected)
+* B.S. in Computer Engineering, Institut Teknologi Sepuluh Nopember, September 2015 - September 2019
+* M.S. in Computer Science, Institut Teknologi Sepuluh Nopember, September 2019 - September 2020
+* Ph.D in Computer Science, Institut Teknologi Sepuluh Nopember, September 2020 - March 2025 (expected)
 
-<!-- Work experience
+Awards
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2023: <b>Best Poster Presentation Awards</b> - MICCAI FAIMI
+  * Vancouver, Canada
+* 2022: <b>International PhD Research Visit Award</b> - Directorate General of Higher Education Education Indonesia
+  * Jakarta, Indonesia
+* 2019-2023: <b>Master-PhD Fellowship</b> - Directorate General of Higher Education Indonesia
+  * Jakarta, Indonesia
+* 2019: <b>Graduate with Honors</b> - Institut Teknologi Sepuluh Nopember
+  * Surabaya, Indonesia
+* 2017: <b>2nd Winner National Startup Incubation Competition</b> - Lintasarta
+  * Jakarta, Indonesia
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-   -->
 
-Selected Publications
+Extra Activity
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Reviewer
+  * MIDL 2024 - Paris, France
+  * MICCAI FAIMI 2024 - Marrakesh, Morocco
+
+* Committee Activity
+  * MICCAI FAIMI
+
+Supervising
+=====
+* 2023: Arnold Sidiprasetija  - Department of Computer Engineering, Institut Teknologi Sepuluh Nopember
+  * Transfer Learning Application for 3D Medical Imaging (Bachelor Thesis)
+* 2022: Fajar Azka - Department of Electrical Engineering, Institut Teknologi Sepuluh Nopember
+  * Stroke Lession Segmentation (Master Thesis)
+* 2022: Caesario Indra Ardana - Department of Radiology, Universitas Airlangga
+  * COVID-19 Prediction and Fairness on X-Ray Images (Bachelor Thesis)
+* 2021: I Made N. Pinton - Department of Computer Engineering, Institut Teknologi Sepuluh Nopember
+  * 3D Brain MR Image classification for Alzheimer's Disease (Bachelor Thesis)
+* 2021: Alif Aditya - Department of Computer Engineering, Institut Teknologi Sepuluh Nopember
+  * Multiclass Segmentation on 3D MRI data for Brain Tumor (Bachelor Thesis)
+* 2020: Yordan Yasin - Department of Computer Engineering, Institut Teknologi Sepuluh Nopember
+  * Open Set Recognition in Skin Classification (Bachelor Thesis)
+* 2020: Muhammad Dimas N. Aryatama - Department of Computer Engineering, Institut Teknologi Sepuluh Nopember
+  * Lung X-Ray Image Classification (Bachelor Thesis)
+
+
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}
