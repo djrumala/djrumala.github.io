@@ -65,7 +65,7 @@ Supervising
 =====
 * 2023: Arnold Sidiprasetija  - Department of Computer Engineering, Institut Teknologi Sepuluh Nopember
   * Transfer Learning Application for 3D Medical Imaging (Bachelor Thesis)
-* 2022: Fajar Azka - Department of Electrical Engineering, Institut Teknologi Sepuluh Nopember
+* 2022: M. Fajar Azka Fadillah - Department of Electrical Engineering, Institut Teknologi Sepuluh Nopember
   * Stroke Lession Segmentation (Master Thesis)
 * 2022: Caesario Indra Ardana - Department of Radiology, Universitas Airlangga
   * COVID-19 Prediction and Fairness on X-Ray Images (Bachelor Thesis)
@@ -75,7 +75,7 @@ Supervising
   * Multiclass Segmentation on 3D MRI data for Brain Tumor (Bachelor Thesis)
 * 2020: Yordan Yasin - Department of Computer Engineering, Institut Teknologi Sepuluh Nopember
   * Open Set Recognition in Skin Classification (Bachelor Thesis)
-* 2020: Muhammad Dimas N. Aryatama - Department of Computer Engineering, Institut Teknologi Sepuluh Nopember
+* 2020: M. Dimas N. Aryatama - Department of Computer Engineering, Institut Teknologi Sepuluh Nopember
   * Lung X-Ray Image Classification (Bachelor Thesis)
 
 
