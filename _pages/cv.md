@@ -13,30 +13,30 @@ redirect_from:
 
 Experience
 ======
-* 2020.09 - present: <b>PhD AI Researcher</b>
+* 2020 Sep - present: <b>PhD AI Researcher</b>
   * <b>Institut Teknologi Sepuluh Nopember, Indonesia</b>
   * Supervisor: Prof. I Ketut Eddy Purnama
   * Skills: Deep Learning, Machine Learning, Computer Vision, Image Processing, Biomedical Image, Python, Tensorflow, SPM
 
-* 2022.11 - 2023.03: <b>Visiting PhD Researcher</b>
+* 2022 Nov - 2023 Mar: <b>Visiting PhD Researcher</b>
   * <b>Kyung Hee University, South Korea</b>
   * Supervisor: Prof. Tae-Seong Kim
   * Skills: Deep Learning, Machine Learning, Computer Vision, Image Processing, Biomedical Image, Python, Tensorflow, SPM
 
-* 20018.08 - 2019.01: <b>Software Engineer</b>
+* 20018 Aug - 2019 Jan: <b>Software Engineer</b>
   * <b>PT. ITS Tekno Sains, Indonesia</b>
   * Skills: Software Engineering, SQL, Machine Learning
 
-* 2018.06 - 2018.07: <b>Engineering Intern</b>
-  * <b>PT. YTL Power (Paiton II Power Station), Indonesia</b>
+* 2018 Jun - 2018 Jul: <b>Engineering Intern</b>
+  * <b>PT. YTL Power, Indonesia</b>
   * Skills: Software Engineering, Network System and Security, SQL
 
 
 Education
 ======
-* B.S. in Computer Engineering, Institut Teknologi Sepuluh Nopember, September 2015 - September 2019
-* M.S. in Computer Science, Institut Teknologi Sepuluh Nopember, September 2019 - September 2020
-* Ph.D in Computer Science, Institut Teknologi Sepuluh Nopember, September 2020 - March 2025 (expected)
+* 2015 Sep - 2019 Sep: B.S. in Computer Engineering, Institut Teknologi Sepuluh Nopember
+* 2019 Sep - 2020 Sep: M.S. in Computer Science, Institut Teknologi Sepuluh Nopember
+* 2020 Sep - present: Ph.D in Computer Science, Institut Teknologi Sepuluh Nopember
 
 Awards
 ======
@@ -52,16 +52,33 @@ Awards
   * Jakarta, Indonesia
 
 
-Extra Activity
+Professional Activity
 ======
-* Reviewer
-  * MIDL 2024 - Paris, France
-  * MICCAI FAIMI 2024 - Marrakesh, Morocco
+* <b>Reviewer</b>
+  * 2024 Jul: MICCAI FAIMI 2024 - Marrakesh, Morocco
+  * 2024 Apr: MIDL 2024 - Paris, France
 
-* Committee Activity
+* <b>Committee Activity</b>
   * MICCAI FAIMI
+* <b>Supervising</b>
+  * 2023: Arnold Sidiprasetija  - Department of Computer Engineering, Institut Teknologi Sepuluh Nopember
+    * Bachelor Thesis: Transfer Learning Application for 3D Medical Imaging
+  * 2022: M. Fajar Azka Fadillah - Department of Electrical Engineering, Institut Teknologi Sepuluh Nopember
+    * Master Thesis: Stroke Lession Segmentation from 3D Brain MRI
+  * 2022: Caesario Indra Ardana - Department of Radiology, Universitas Airlangga
+    * Bachelor Thesis:  COVID-19 Prediction and Fairness on X-Ray Images
+  * 2021: I Made N. Pinton - Department of Computer Engineering, Institut Teknologi Sepuluh Nopember
+    * Bachelor Thesis:  3D Brain MR Image classification for Alzheimer's Disease
+  * 2021: Alif Aditya - Department of Computer Engineering, Institut Teknologi Sepuluh Nopember
+    * Bachelor Thesis:  Multiclass Segmentation on 3D MRI data for Brain Tumor
+  * 2020: Yordan Yasin - Department of Computer Engineering, Institut Teknologi Sepuluh Nopember
+    * Bachelor Thesis:  Open Set Recognition in Skin Classification
+  * 2020: M. Dimas N. Aryatama - Department of Computer Engineering, Institut Teknologi Sepuluh Nopember
+    * Bachelor Thesis:  Lung X-Ray Image Classification
 
-Supervising
+
+
+<!-- * Supervising
 =====
 * 2023: Arnold Sidiprasetija  - Department of Computer Engineering, Institut Teknologi Sepuluh Nopember
   * Transfer Learning Application for 3D Medical Imaging (Bachelor Thesis)
@@ -76,7 +93,7 @@ Supervising
 * 2020: Yordan Yasin - Department of Computer Engineering, Institut Teknologi Sepuluh Nopember
   * Open Set Recognition in Skin Classification (Bachelor Thesis)
 * 2020: M. Dimas N. Aryatama - Department of Computer Engineering, Institut Teknologi Sepuluh Nopember
-  * Lung X-Ray Image Classification (Bachelor Thesis)
+  * Lung X-Ray Image Classification (Bachelor Thesis) -->
 
 
 <!-- Talks
