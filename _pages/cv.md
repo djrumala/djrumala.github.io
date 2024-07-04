@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Resume"
-permalink: /about-me/cv/
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,52 +9,47 @@ redirect_from:
 
 {% include base_path %}
 
+## Education
+* Ph.D in Computer Science, [Institut Teknologi Sepuluh Nopember](https://its.ac.id){:target="_blank"}, 2020-present.
+* M.S. in Computer Science, [Institut Teknologi Sepuluh Nopember](https://its.ac.id){:target="_blank"}, 2019-2020.
+* B.S. in Computer Engineering, [Institut Teknologi Sepuluh Nopember](https://its.ac.id){:target="_blank"}, 2015-2019
 
 
-Experience
-======
+## Experience
 * 2020 Sep - present: <b>PhD AI Researcher</b>
-  * <b>Institut Teknologi Sepuluh Nopember, Indonesia</b>
+  * [Institut Teknologi Sepuluh Nopember](https://its.ac.id){:target="_blank"}, Indonesia
   * Supervisor: Prof. I Ketut Eddy Purnama
   * Skills: Deep Learning, Machine Learning, Computer Vision, Image Processing, Biomedical Image, Python, Tensorflow, SPM
 
 * 2022 Nov - 2023 Mar: <b>Visiting PhD Researcher</b>
-  * <b>Kyung Hee University, South Korea</b>
+  * [Kyung Hee University](https://khu.ac.kr){:target="_blank"}, South Korea
   * Supervisor: Prof. Tae-Seong Kim
   * Skills: Deep Learning, Machine Learning, Computer Vision, Image Processing, Biomedical Image, Python, Tensorflow, SPM
 
 * 20018 Aug - 2019 Jan: <b>Software Engineer</b>
-  * <b>PT. ITS Tekno Sains, Indonesia</b>
+  * [ITS Tekno Sains](https://itsteknosains.co.id/){:target="_blank"}, Indonesia
   * Skills: Software Engineering, SQL, Machine Learning
 
 * 2018 Jun - 2018 Jul: <b>Engineering Intern</b>
-  * <b>PT. YTL Power, Indonesia</b>
+  * [YTL Power](https://www.ytlpowerinternational.com/){:target="_blank"}, Indonesia
   * Skills: Software Engineering, Network System and Security, SQL
 
 
-Education
-======
-* 2015 Sep - 2019 Sep: B.S. in Computer Engineering, Institut Teknologi Sepuluh Nopember
-* 2019 Sep - 2020 Sep: M.S. in Computer Science, Institut Teknologi Sepuluh Nopember
-* 2020 Sep - present: Ph.D in Computer Science, Institut Teknologi Sepuluh Nopember
 
-Awards
-======
-* 2023: <b>Best Poster Presentation Awards</b> - MICCAI FAIMI
+## Grants and Awards
+* 2023: <b>Best Poster Presentation Awards</b> - [MICCAI FAIMI](https://faimi-workshop.github.io/2023-miccai/){:target="_blank"}
   * Vancouver, Canada
-* 2022: <b>International PhD Research Visit Award</b> - Directorate General of Higher Education Education Indonesia
-  * Jakarta, Indonesia
-* 2019-2023: <b>Master-PhD Fellowship</b> - Directorate General of Higher Education Indonesia
-  * Jakarta, Indonesia
-* 2019: <b>Graduate with Honors</b> - Institut Teknologi Sepuluh Nopember
-  * Surabaya, Indonesia
-* 2017: <b>2nd Winner National Startup Incubation Competition</b> - Lintasarta
-  * Jakarta, Indonesia
+* 2022: <b>International PhD Research Visit Award</b> - [Directorate General of Higher Education Education Indonesia](https://dikti.kemdikbud.go.id/){:target="_blank"}
+  * worth IDR 150M to visit 
+[Kyung Hee University](https://khu.ac.kr){:target="_blank"}, South Korea for 5 months
+* 2019-2023: <b>Master-PhD Fellowship</b> - [Directorate General of Higher Education Education Indonesia](https://dikti.kemdikbud.go.id/){:target="_blank"}
+* 2019: <b>Graduate with Honors</b> - Institut Teknologi Sepuluh Nopember, Surabaya, Indonesia
+* 2017: <b>2nd Winner National Startup Incubation Competition</b> - [Lintasarta](https://www.lintasarta.net/){:target="_blank"}, Indonesia
+  * securing investment of IDR 100M to realize a startup product
 
 
-Professional Activity
-======
-* <b>Reviewer</b>
+## Professional Activity
+* <b>Reviewing</b>
   * 2024 Jul: MICCAI FAIMI 2024 - Marrakesh, Morocco
   * 2024 Apr: MIDL 2024 - Paris, France
 

@@ -11,7 +11,7 @@ venue: 'IEEE Region 10 Symposium (TENSYMP)'
 Dewinda Julianensi Rumala, Eko Mulyanto Yuniarno, Reza Fuad Rachmadi, Supeno Mardi Susiki Nugroho, Yudhi Adrianto, Anggraini Dwi Sensusiati, I Ketut Eddy Purnama
 <br>
 <!-- <a href="https://ieeexplore.ieee.org/abstract/document/9550987"  target="_blank"><i class="fas fa-file-pdf"> PDF</i></a> -->
-<a href="https://ieeexplore.ieee.org/abstract/document/9550987/"  target="_blank"><i class="fa fa-globe"> Publication Page</i></a>
+<a href="https://ieeexplore.ieee.org/abstract/document/9550987/"  target="_blank"><i class="fa fa-link"> Publication Page</i></a>
 <!-- <a href="https://github.com/djrumala/ADNI-processing"  target="_blank"><i class="fab fa-github"> Code</i></a> -->
 <!-- Link to the publication/paper1 page -->
 <br>

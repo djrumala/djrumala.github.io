@@ -7,9 +7,10 @@ date: 2023-09-01
 venue: 'MICCAI FAIMI'
 ---
 Dewinda Julianensi Rumala<br>
+<a href="https://link.springer.com/chapter/10.1007/978-3-031-45249-9_23"  target="_blank"><i class="fa fa-link"> Publication Page</i></a>
 <a href="https://arxiv.org/abs/2309.00350"  target="_blank"><i class="fas fa-file-pdf"> Preprint</i></a>
 <a href="https://github.com/djrumala/ADNI-processing"  target="_blank"><i class="fab fa-github"> Code</i></a>
-<a href="https://link.springer.com/chapter/10.1007/978-3-031-45249-9_23"  target="_blank"><i class="fa fa-globe"> Publication Page</i></a>
+<a href="/files/2023-its-miccai_faimi/small-poster.pdf" target="_blank"><i class="fa fa-image"> Poster</i></a>
 <br>
 
 <!-- Link to the publication/paper1 page -->
