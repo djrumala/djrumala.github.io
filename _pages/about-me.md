@@ -28,4 +28,4 @@ Contact
 * email: dewinda.207022@mhs.its.ac.id
 
 
-<p>Find out more about me: <a href="./cv">my CV</a></p>
+<p>Find out more about me: <a href="../cv">my CV</a></p>
