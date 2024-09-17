@@ -33,4 +33,4 @@ Contact
 <a href="/files/about/card.png"  target="_blank" class="btn"><i class="fas fa-address-card"> View Business Card</i></a>
 
 
-### Find out more about me: <a href="../cv"  target="_blank" class="btn"><i class="fas fa-address-card"> My CV</i></a>
+### Find out more about me: <a href="../cv"  target="_blank" class="btn"><i class="fas fa-user-graduate"> My CV</i></a>
