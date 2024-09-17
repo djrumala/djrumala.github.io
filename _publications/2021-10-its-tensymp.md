@@ -13,7 +13,7 @@ Dewinda Julianensi Rumala, Eko Mulyanto Yuniarno, Reza Fuad Rachmadi, Supeno Mar
 <!-- <a href="https://ieeexplore.ieee.org/abstract/document/9550987"  target="_blank"><i class="fas fa-file-pdf"> PDF</i></a> -->
 <a href="https://ieeexplore.ieee.org/abstract/document/9550987/"  target="_blank"><i class="fas fa-graduation-cap">Publication</i></a>
 <a href="https://www.researchgate.net/publication/355065213_Bilinear_MobileNets_for_Multi-class_Brain_Disease_Classification_Based_on_Magnetic_Resonance_Images?_sg%5B0%5D=a-EsJq44Yslr2l8d3LEFgKtrO5HL9H1RYAu7kktRwG_bpuRfQNyMrDWcvQPZzUXVktnYLoSykOboCn1jR8q7z-XwBvdqn4Ghf7F0HEhn.XmJ6YiB1VxZK76oAb_CD7NzrfRz5Ae6MWwX1NHKv62ZdLKi48doZENEu99E4nQUMisPLkOrO-rVP_hmn34hfBg&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6Il9kaXJlY3QifX0"  target="_blank"><i class="fas fa-file-pdf">Preprint</i></a>
-<a href="/files/pub/2023-its-tensymp/presentation.pdf" target="_blank"><i class="fa fa-file-powerpoint">Presentation</i></a>
+<a href="/files/pub/2021-its-tensymp/presentation.pdf" target="_blank"><i class="fa fa-file-powerpoint">Presentation</i></a>
 <a href="https://youtu.be/AdE99NlQPGY" target="_blank"><i class="fas fa-play-circle">Video</i></a>
 <br>
 <!-- <a href="https://github.com/djrumala/ADNI-processing"  target="_blank"><i class="fab fa-github"> Code</i></a> -->
