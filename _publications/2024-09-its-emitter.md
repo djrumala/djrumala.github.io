@@ -1,17 +1,16 @@
 ---
 title: "Lite FBCN: Lightweight Fast Bilinear Convolutional Network for Brain Disease Classification from MRI Image"
-author_profile: false
+author_profile: true
 collection: publications
 permalink: /publications/lite-fbcn
-# excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2024-09-03
 venue: 'EMITTER International Journal of Engineering Technology'
-# citation: 'Rumala, D.J., van Ooijen, P., Rachmadi, R.F. et al. Deep-Stacked Convolutional Neural Networks for Brain Abnormality Classification Based on MRI Images. J Digit Imaging 36, 1460–1479 (2023). https://doi.org/10.1007/s10278-023-00828-7'
+
 ---
 Dewinda Julianensi Rumala, Reza Fuad Rachmadi, Anggraini Dwi Sensusiati, and I Ketut Eddy Purnama
 <br>
-<a href=""  target="_blank"><i class="fas fa-file-pdf"> Preprint</i></a>
-<a href="https://github.com/djrumala/lite-fbcn"  target="_blank"><i class="fab fa-github"> Code</i></a>
+<a href="/files/pub/2024-its-emitter/preprint.pdf"  target="_blank"><i class="fas fa-file-pdf">Preprint</i></a>
+<a href="https://github.com/djrumala/lite-fbcn"  target="_blank"><i class="fab fa-github">Code</i></a>
 <!-- Link to the publication/paper1 page -->
 <br>
 <body>

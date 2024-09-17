@@ -1,19 +1,18 @@
 ---
-layout: archive
 title: "The Effect of Noisy and Blurry Data on Deep Learning: Application in Brain Image Classification"
 permalink: /publications/noisy-and-blurry
-author_profile: false
+author_profile: true
 date: 2022-11-04
 venue: 'IEEE Region 10 Conference (TENCON), 2022'
 ---
 Dewinda Julianensi Rumala<br>
-<a href="https://ieeexplore.ieee.org/abstract/document/9977591/"  target="_blank"><i class="fa fa-link"> Publication Page</i></a>
-<a href="/files/2022-its-tencon/small-poster.pdf"  target="_blank"><i class="fa fa-image"> Poster</i></a>
+<a href="https://ieeexplore.ieee.org/abstract/document/9977591/"  target="_blank"><i class="fas fa-graduation-cap">Publication</i></a>
+<a href="/files/pub/2022-its-tencon/small-poster.pdf"  target="_blank"><i class="fas fa-file-image">Poster</i></a>
 <br>
 
 This work has been presented at IEEE TENCON 2022 in Hongkong.
 
-<a href="/files/2022-its-tencon/small-poster.pdf" target="_blank" class="btn"><i class="fa fa-scroll"> Download Poster</i></a>
+<a href="/files/pub/2022-its-tencon/small-poster.pdf" target="_blank" class="btn"><i class="fa fa-scroll"> Download Poster</i></a>
 
 
 # Introduction
@@ -21,7 +20,7 @@ This work has been presented at IEEE TENCON 2022 in Hongkong.
 * Little attention is given to data handling procedure when tackling longitudinal data
 * Deep learning model performance tends to be  -->
 
-* Convolutional Neural Networks (CNN) is one of the best Deep Learning algorithms commonly used for computervision tasks ,including medical image analysis
+* Convolutional Neural Networks (CNN) is one of the best Deep Learning algorithms commonly used for computervision tasks, including medical image analysis
 
 * CNN can learn the representational features from images starting from the lower to complex features. However, noisy data can affect the generalization of the networks, which is often found in medical images, such as Magnetic Resonance Imaging (MRI). 
 

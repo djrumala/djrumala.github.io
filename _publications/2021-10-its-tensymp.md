@@ -1,6 +1,6 @@
 ---
 title: "Bilinear MobileNets for Multi-class Brain Disease Classification Based on Magnetic Resonance Images"
-author_profile: false
+author_profile: true
 collection: publications
 permalink: /publications/bilinear-mobilenets
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
@@ -11,17 +11,12 @@ venue: 'IEEE Region 10 Symposium (TENSYMP)'
 Dewinda Julianensi Rumala, Eko Mulyanto Yuniarno, Reza Fuad Rachmadi, Supeno Mardi Susiki Nugroho, Yudhi Adrianto, Anggraini Dwi Sensusiati, I Ketut Eddy Purnama
 <br>
 <!-- <a href="https://ieeexplore.ieee.org/abstract/document/9550987"  target="_blank"><i class="fas fa-file-pdf"> PDF</i></a> -->
-<a href="https://ieeexplore.ieee.org/abstract/document/9550987/"  target="_blank"><i class="fa fa-link"> Publication Page</i></a>
+<a href="https://ieeexplore.ieee.org/abstract/document/9550987/"  target="_blank"><i class="fas fa-graduation-cap">Publication</i></a>
+<a href="https://www.researchgate.net/publication/355065213_Bilinear_MobileNets_for_Multi-class_Brain_Disease_Classification_Based_on_Magnetic_Resonance_Images?_sg%5B0%5D=a-EsJq44Yslr2l8d3LEFgKtrO5HL9H1RYAu7kktRwG_bpuRfQNyMrDWcvQPZzUXVktnYLoSykOboCn1jR8q7z-XwBvdqn4Ghf7F0HEhn.XmJ6YiB1VxZK76oAb_CD7NzrfRz5Ae6MWwX1NHKv62ZdLKi48doZENEu99E4nQUMisPLkOrO-rVP_hmn34hfBg&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6Il9kaXJlY3QifX0"  target="_blank"><i class="fas fa-file-pdf">Preprint</i></a>
+<a href="/files/pub/2023-its-tensymp/presentation.pdf" target="_blank"><i class="fa fa-file-powerpoint">Presentation</i></a>
+<a href="https://youtu.be/AdE99NlQPGY" target="_blank"><i class="fas fa-play-circle">Video</i></a>
+<br>
 <!-- <a href="https://github.com/djrumala/ADNI-processing"  target="_blank"><i class="fab fa-github"> Code</i></a> -->
 <!-- Link to the publication/paper1 page -->
-<br>
-<body>
 
 This study addresses the critical need for accurate classification of various brain diseases, moving beyond binary classification that previous studies predominantly focused on. Leveraging Convolutional Neural Networks (CNNs), particularly MobileNetV1 and MobileNetV2, as lightweight backbone networks, the research employs transfer learning on brain MRI images. However, accurately characterizing brain diseases requires considering features like object location, texture, shape, and size, often overlooked by traditional CNNs. To address this, the study proposes a Bilinear Convolutional Neural Network (BCNN) that leverages the strengths of both models using a bilinear pooling operation, significantly enhancing classification performance.
-
-<br><br>
-<p>Publication link: <a href="https://ieeexplore.ieee.org/abstract/document/9550987" target="_blank">read here</a>.</p>
-<p>Download pre-print here for free: <a href="https://www.researchgate.net/publication/355065213_Bilinear_MobileNets_for_Multi-class_Brain_Disease_Classification_Based_on_Magnetic_Resonance_Images?_sg%5B0%5D=a-EsJq44Yslr2l8d3LEFgKtrO5HL9H1RYAu7kktRwG_bpuRfQNyMrDWcvQPZzUXVktnYLoSykOboCn1jR8q7z-XwBvdqn4Ghf7F0HEhn.XmJ6YiB1VxZK76oAb_CD7NzrfRz5Ae6MWwX1NHKv62ZdLKi48doZENEu99E4nQUMisPLkOrO-rVP_hmn34hfBg&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6Il9kaXJlY3QifX0" target="_blank">read here</a>.</p>
-
-
-</body>

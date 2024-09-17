@@ -1,16 +1,16 @@
 ---
-layout: archive
 title: "How You Split Matters: Data Leakage and Subject Characteristics Studies in Longitudinal Brain MRI Analysis"
 permalink: /publications/how-you-split-matters
-author_profile: false
+author_profile: true
 date: 2023-09-01
 venue: 'MICCAI FAIMI'
 ---
 Dewinda Julianensi Rumala<br>
-<a href="https://link.springer.com/chapter/10.1007/978-3-031-45249-9_23"  target="_blank"><i class="fa fa-link"> Publication Page</i></a>
-<a href="https://arxiv.org/abs/2309.00350"  target="_blank"><i class="fas fa-file-pdf"> Preprint</i></a>
-<a href="https://github.com/djrumala/ADNI-processing"  target="_blank"><i class="fab fa-github"> Code</i></a>
-<a href="/files/2023-its-miccai_faimi/small-poster.pdf" target="_blank"><i class="fa fa-image"> Poster</i></a>
+<a href="https://link.springer.com/chapter/10.1007/978-3-031-45249-9_23"  target="_blank"><i class="fas fa-graduation-cap">Publication</i></a>
+<a href="https://arxiv.org/abs/2309.00350" target="_blank"><i class="fas fa-file-pdf">Preprint</i></a>
+<a href="https://github.com/djrumala/ADNI-processing" target="_blank"><i class="fab fa-github">Code</i></a>
+<a href="/files/pub/2023-its-miccai_faimi/small-poster.pdf" target="_blank"><i class="fas fa-file-image">Poster</i></a>
+<a href="https://youtu.be/czkG9Oqts6o?si=hxehYYp1BXiyDLLo&t=6637" target="_blank"><i class="fas fa-play-circle">Video</i></a>
 <br>
 
 <!-- Link to the publication/paper1 page -->
@@ -18,8 +18,8 @@ Dewinda Julianensi Rumala<br>
 
 This work has been honored with the <b>Best Poster Presentation Award</b> at MICCAI FAIMI 2023 workshop.
 
-<a href="/files/2023-its-miccai_faimi/small-poster.pdf" target="_blank" class="btn"><i class="fa fa-scroll"> Download Poster</i></a>
-<a href="/files/2023-its-miccai_faimi/best_poster_award.pdf"  target="_blank" class="btn"><i class="fa fa-award"> View Award Certificate</i></a> 
+<a href="/files/pub/2023-its-miccai_faimi/small-poster.pdf" target="_blank" class="btn"><i class="fa fa-scroll"> Download Poster</i></a>
+<a href="/files/pub/2023-its-miccai_faimi/best_poster_award.pdf"  target="_blank" class="btn"><i class="fa fa-award"> View Award Certificate</i></a> 
 
 
 <!-- # Research Summary -->

@@ -17,7 +17,7 @@ When I still feel like 'I want to learn' during my free time, I love spending ti
 
 I also love experimenting with new fusion food recipes 👩‍🍳 that blend international flavors with the rich cultural tapestry of my Madurese heritage.
 
-To unwind, I sometimes spend my time singing karaoke🎶 or watching Korean dramas 🎬 usually accompanied by ayam geprek noodle 🍜 Yes, I love Korean dramas and female K-Pop groups but I do not have time to keep up with the news.
+To unwind, I sometimes spend my time singing karaoke🎶 or watching Korean dramas 🎬 usually accompanied by ayam geprek noodle. 🍜 Yes, I love Korean dramas and female K-Pop groups but I do not have time to keep up with the news.
 
 <!-- If you come to my tropical home-country, let's enjoy coconut milk ice cream with jackfruit 🥥
 If you invite me to your four-season country, please treat me to a strawberry milkshake or hot tea 🍓☕ -->
@@ -25,7 +25,12 @@ If you invite me to your four-season country, please treat me to a strawberry mi
 
 Contact
 ======
-* email: dewinda.207022@mhs.its.ac.id
+<!-- Email: dewinda.207022@mhs.its.ac.id -->
+
+<img src="/files/about/card.png"  style="max-height: 300px">
 
 
-<p>Find out more about me: <a href="../cv">my CV</a></p>
+<a href="/files/about/card.png"  target="_blank" class="btn"><i class="fas fa-address-card"> View Business Card</i></a>
+
+
+### Find out more about me: <a href="../cv"  target="_blank" class="btn"><i class="fas fa-address-card"> My CV</i></a>
