@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* Ph.D in Computer Science, [Institut Teknologi Sepuluh Nopember](https://its.ac.id){:target="_blank"}, 2020-present.
-* M.S. in Computer Science, [Institut Teknologi Sepuluh Nopember](https://its.ac.id){:target="_blank"}, 2019-2020.
-* B.S. in Computer Engineering, [Institut Teknologi Sepuluh Nopember](https://its.ac.id){:target="_blank"}, 2015-2019
+* Ph.D in Computer Science, [Institut Teknologi Sepuluh Nopember](https://its.ac.id){:target="_blank"}, 09/2020-02/2025.
+* M.S. in Computer Science, [Institut Teknologi Sepuluh Nopember](https://its.ac.id){:target="_blank"}, 09/2019-09/2020.
+* B.S. in Computer Engineering, [Institut Teknologi Sepuluh Nopember](https://its.ac.id){:target="_blank"}, 09/2015-09/2019
 
 
 ## Experience
@@ -58,10 +58,12 @@ redirect_from:
 * <b>Supervising</b>
   * 2023: Arnold Sidiprasetija  - Department of Computer Engineering, Institut Teknologi Sepuluh Nopember
     * Bachelor Thesis: Transfer Learning Application for 3D Medical Imaging
+  * 2023: Ramadhan Sanyoto Sugiharso Widodo - Department of Computer Engineering, Institut Teknologi Sepuluh Nopember
+    * Bachelor Thesis: Volumetric Hippocampus Segmentation Using 3D U-Net Based on Transfer Learning
   * 2022: M. Fajar Azka Fadillah - Department of Electrical Engineering, Institut Teknologi Sepuluh Nopember
     * Master Thesis: Stroke Lession Segmentation from 3D Brain MRI
   * 2022: Caesario Indra Ardana - Department of Radiology, Universitas Airlangga
-    * Bachelor Thesis:  COVID-19 Prediction and Fairness on X-Ray Images
+    * Bachelor Thesis:  COVID-19 Prediction on X-Ray Images
   * 2021: I Made N. Pinton - Department of Computer Engineering, Institut Teknologi Sepuluh Nopember
     * Bachelor Thesis:  3D Brain MR Image classification for Alzheimer's Disease
   * 2021: Alif Aditya - Department of Computer Engineering, Institut Teknologi Sepuluh Nopember
