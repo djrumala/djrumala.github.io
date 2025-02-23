@@ -10,27 +10,27 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* Ph.D in Computer Science, [Institut Teknologi Sepuluh Nopember](https://its.ac.id){:target="_blank"}, 09/2020-02/2025.
+* Ph.D in Computer Science, [Institut Teknologi Sepuluh Nopember](https://its.ac.id){:target="_blank"}, 09/2020-12/2024.
 * M.S. in Computer Science, [Institut Teknologi Sepuluh Nopember](https://its.ac.id){:target="_blank"}, 09/2019-09/2020.
 * B.S. in Computer Engineering, [Institut Teknologi Sepuluh Nopember](https://its.ac.id){:target="_blank"}, 09/2015-09/2019
 
 
 ## Experience
-* 2020 Sep - present: <b>PhD AI Researcher</b>
+* 09/20 - 12/2024: <b>PhD AI Researcher</b>
   * [Institut Teknologi Sepuluh Nopember](https://its.ac.id){:target="_blank"}, Indonesia
   * Supervisor: Prof. I Ketut Eddy Purnama
-  * Skills: Deep Learning, Machine Learning, Computer Vision, Image Processing, Biomedical Image, Python, Tensorflow, SPM
+  * Skills: Deep Learning, Machine Learning, Computer Vision, Image Processing, Biomedical Image
 
-* 2022 Nov - 2023 Mar: <b>Visiting PhD Researcher</b>
+* 11/2022 - 03/2023: <b>Visiting PhD Researcher</b>
   * [Kyung Hee University](https://khu.ac.kr){:target="_blank"}, South Korea
   * Supervisor: Prof. Tae-Seong Kim
-  * Skills: Deep Learning, Machine Learning, Computer Vision, Image Processing, Biomedical Image, Python, Tensorflow, SPM
+  * Skills: Deep Learning, Machine Learning, Computer Vision, Image Processing, Biomedical Image
 
-* 20018 Aug - 2019 Jan: <b>Software Engineer</b>
+* 08/2019 - 01/2019: <b>Software Engineer</b>
   * [ITS Tekno Sains](https://itsteknosains.co.id/){:target="_blank"}, Indonesia
   * Skills: Software Engineering, SQL, Machine Learning
 
-* 2018 Jun - 2018 Jul: <b>Engineering Intern</b>
+* 06/2018 - 07/2018: <b>Engineering Intern</b>
   * [YTL Power](https://www.ytlpowerinternational.com/){:target="_blank"}, Indonesia
   * Skills: Software Engineering, Network System and Security, SQL
 
@@ -50,8 +50,7 @@ redirect_from:
 
 ## Professional Activity
 * <b>Reviewing</b>
-  * 2024 Jul: MICCAI FAIMI 2024 - Marrakesh, Morocco
-  * 2024 Apr: MIDL 2024 - Paris, France
+  * MIDL, MICCAI, MICCAI FAIMI, MICCAI EMERGE
 
 * <b>Committee Activity</b>
   * MICCAI FAIMI
