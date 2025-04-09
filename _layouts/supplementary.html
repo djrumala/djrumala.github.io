@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+{% include base_path %}
+<!DOCTYPE html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+
+  </head>
+<body>
+
+  {% include browser-upgrade.html %}
+  {% include masthead.html %}
+  <div class="page__content">
+    <main>
+      <h1 class="btn">{{ page.title }}</h1>
+      <div class="content">
+        {{ content }}
+      </div>
+    </main>
+  </div>
+
+  <div class="page__footer">
+    <footer>
+      {% include footer/custom.html %}
+      {% include footer.html %}
+    </footer>
+  </div>
+
+  {% include scripts.html %}
+
+</body>
+</html>
