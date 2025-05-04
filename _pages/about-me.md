@@ -25,7 +25,7 @@ If you invite me to your four-season country, please treat me to a strawberry mi
 
 Contact
 ======
-Email: dewinda@universa.org
+Email: dewinda[at]universa[dot]org
 <!-- <img src="/files/about/card.png"  style="max-height: 300px"> -->
 
 
